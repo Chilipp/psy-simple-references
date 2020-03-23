@@ -16,5 +16,5 @@ and in the cloned ``psy-simple`` repository, run::
 
     git submodule update --init `python tests/get_ref_dir.py`
 
-.. _psy-simple: https://github.com/Chilipp/psy-simple
+.. _psy-simple: https://github.com/psyplot/psy-simple
 .. _get_ref_dir.py: https://github.com/Chilipp/psy-simple/blob/master/tests/get_ref_dir.py
